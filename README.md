@@ -573,6 +573,18 @@ Through this project, the following concepts were explored:
 - Predictive maintenance
 
 ---
+<img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/cecaab35-50b8-44da-857b-6d0a3fe4f392" />
+<img width="1920" height="1080" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/3ec84b78-5f14-4efe-b296-4114470bdf7a" />
+<img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/5134e4ad-007d-458e-9e80-7bd677157292" />
+<img width="1920" height="1080" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/f1417ffe-ab45-4361-acb2-0c01783b60d0" />
+<img width="1920" height="1080" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/943dc7f1-950c-4bd0-8346-99f87f223441" />
+<img width="1920" height="1080" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/1dab81f5-99bb-42cc-b188-abb08d9a6668" />
+
+
+
+
+
+
 
 ## 👨‍💻 Author
 
